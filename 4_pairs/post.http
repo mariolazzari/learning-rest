@@ -1,0 +1,6 @@
+PUT https://jsonplaceholder.typicode.com/posts/1
+Content-Type: application/json
+
+{
+  "name": "Mario Lazzari"
+}
